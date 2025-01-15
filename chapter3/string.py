@@ -1,3 +1,5 @@
+# *** string immutable ***
+
 name_one = "kishan rana ghosh"
 name_two = 'kishan rana ghosh'
 name_three = """kishan rana ghosh"""
