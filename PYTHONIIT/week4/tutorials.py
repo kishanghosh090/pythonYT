@@ -223,8 +223,10 @@ def add(a,b=10,c=22):
 
 print(add(1))
 
-# types of functions
+# types of functions-------
 # 1. Built-in functions
 # 2. library functions
 # 3. user defined functions
 # 4. class methods
+
+
