@@ -114,3 +114,37 @@ import random
 
 from calendar import month
 # print(month(2025,2))
+
+
+
+#################### second time practice ####################
+
+x = "kIsHaN Rana GHoSh"
+print(x)
+# print(x.lower())
+# print(x.upper())
+# print(x.capitalize())
+# print(x.title())
+# # print(x.swapcase())
+
+# print(x.islower())
+# print(x.isupper())
+# print(x.istitle())
+# print(x.isdigit())
+# print(x.isalpha())
+# print(x.isalnum())
+
+y = "----python----"
+# print(y.strip('-'))
+# print(y.lstrip('-'))
+# print(y.rstrip('-'))
+
+z = "Python string"
+
+# print(z.startswith('p'))
+# print(z.endswith('n'))
+
+# print(z.count('t'))
+# print(z.index('t'))
+# print(z.find('t')) 
+# print(z.replace('t','q'))
