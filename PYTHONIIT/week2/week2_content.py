@@ -157,5 +157,10 @@ i = 10
 newName = ''
 # print(i%26)
 
-for i in range(0,len(name)):
-    print(alpha[(((alpha.index(name[i]))+2)%26)])
+# for i in range(0,len(name)):
+#     print(alpha[(((alpha.index(name[i]))+2)%26)])
+
+
+
+# for i in range(0,len(name)*10):
+#     print(i%26)
