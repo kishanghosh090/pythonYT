@@ -120,7 +120,7 @@ from calendar import month
 #################### second time practice ####################
 
 x = "kIsHaN Rana GHoSh"
-print(x)
+# print(x)
 # print(x.lower())
 # print(x.upper())
 # print(x.capitalize())
@@ -148,3 +148,14 @@ z = "Python string"
 # print(z.index('t'))
 # print(z.find('t')) 
 # print(z.replace('t','q'))
+
+
+alpha = "abcdefghijklmnopqrstuvwxyz"
+
+name = "kishan" # ljsibo
+i = 10
+newName = ''
+# print(i%26)
+
+for i in range(0,len(name)):
+    print(alpha[(((alpha.index(name[i]))+2)%26)])
