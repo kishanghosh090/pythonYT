@@ -164,3 +164,10 @@ newName = ''
 
 # for i in range(0,len(name)*10):
 #     print(i%26)
+
+import random
+# print(random.random())
+# print(random.randint(1,10))
+
+from calendar import *
+print(calendar(2025))

@@ -40,5 +40,18 @@ s4 = s1.intersection(s2)
 s5 = s1.difference(s2)
 s6 = s2.difference(s1)
 
-print(s3)
-print(s4)
+# print(s3)
+# print(s4)
+
+word1 = "Wingardium" # str
+word2 = "Leviyosa" # str
+word3 = "Silver" # str
+sentence = "Learning python is fun"
+n1 = 6 # int
+n2 = 4 # int
+# <eoi>
+
+output1 = word1 + " " + word2 # str: join word1 and word2 with space in between
+output2 = word1[:4] + "-" + word2[-4:]  # str: join first four letters of word1 and last four letters of word 2 with a hyphen "-" in between
+output3 = word3 + " " + str(n1) # str: join the word3 and n1 with a space in between
+print(output1)
